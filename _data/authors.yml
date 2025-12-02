@@ -1,18 +1,11 @@
 # Authors
 
 Name Name:
-  name        : "Name Name"
-  uri         : "http://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
+  name        : "KJ Kaixin Deng"
+  uri         : "http://kjkaixindeng.com"
+  email       : "kjkaixin.deng@student.uts.edu.au"
+  bio         : "Ph.D. Candidate at School ofCommunication, University of Technology Sydney"
   avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
-
-Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"
+  X           : "https://x.com/KJ_Kaixin_Deng"
+  ORCID       : "https://orcid.org/0009-0005-5999-6214"
+  Linkin      : "https://www.linkedin.com/in/kj-kaixin-deng-59a2612b1/"
