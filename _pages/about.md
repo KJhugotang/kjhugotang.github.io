@@ -7,8 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am Keyu Cui, a third-year PhD student in Management Science and Engineering at Xi'an Jiaotong University. I am currently participating in a joint program with HEC Paris, under the supervision of Professors Xitong Li and Shan Liu. My research focuses on the management of digital platforms, encompassing AI management, pricing strategies, and the management of User-Generated Content (UGC). Recently, I have developed a keen interest in the applications of AI for Science and Social Science.
+Hi, this is KJ.
 
-I have received an invitation to revise a paper for MIS Quarterly and am preparing several other manuscripts for submission to top journals in Information Systems and general Science fields.
+I'm a Ph.D. Candidate at School ofCommunication, University of Technology Sydney, and a member of the Center for Future Media & Human-Machine Communication, supervised by Dr. Paul Bron, Dr. Kai Lin & A/Prof. Amelia Johns.
 
-You can find my CV here: [Keyu's Curriculum Vitae](../homepage/assets/CV-cui.pdf)
+Before joining in UTS, I also got my Bachelor of Communication (Honours) in Media and Communication Studies at Beijing Normal-Hong Kong Bapist University (Dissertation supervisor: Dr. Runze Ding).
+
+You can download my CV, or browse this website for more info.
