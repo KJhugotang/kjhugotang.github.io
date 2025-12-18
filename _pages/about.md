@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<h1 style="color: #226b68;">Hi, here's <a href="https://profiles.uts.edu.au/student_Kaixin.Deng" style="color: #226b68; font-weight: bold; text-decoration: none;">KJ</a>!</h1>
+<h1 style="color: #226b68;">Hi, here's <a href="https://profiles.uts.edu.au/student_Kaixin.Deng" style="color: #226b68; font-weight: bold; text-decoration: underline;">KJ</a>!</h1>
 
 I'm a Ph.D. Candidate at <a href="https://www.uts.edu.au/about/faculties/design-and-society/communication" style="color: #226b68; font-weight: bold; text-decoration: none;">School of Communication, University of Technology Sydney</a>, supervised by Dr. Paul Bron, Dr. Kai Lin & A/Prof. Amelia Johns.
 
