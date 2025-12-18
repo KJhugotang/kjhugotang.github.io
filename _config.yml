@@ -7,14 +7,14 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
-title                    : "KJ's Homepage"
-title_separator          : "-"
-name                     : &name "KJ Kaixin Deng"
-description              : &description "PhD Candidate in Communication"
-url                      : "https://www.kjdeng.space"
-baseurl                  : "" 
-repository               : "kjhugotang.github.io"
+locale: "en-US"
+title: "KJ's Homepage"
+title_separator: "-"
+name: "KJ Kaixin Deng"
+description: "PhD Candidate in Communication"
+url: "https://www.kjdeng.space"
+baseurl: ""
+repository: "kjhugotang/kjhugotang.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
