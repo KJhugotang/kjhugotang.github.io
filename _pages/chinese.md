@@ -18,13 +18,9 @@ toc_icon: "book"
 
 <h2 style="color: #226b68;">研究兴趣</h2>
 
-我的研究主要集中在以下领域：
-* **数字亲密关系 (Digital Intimacy)**
 
-<h2 style="color: #226b68;">精选发表 (Selected Publications)</h2>
+<h2 style="color: #226b68;">学术发表</h2>
 
-* **Deng, K.**, & Runze, D. (2026). *A Great Paper*. Journal of Communication. <a href="#" style="color: #226b68; font-weight: bold; text-decoration: none;">[PDF]</a>
-* **Deng, K.** (2023). *Another Great Paper*. International Communication Association.
 
 <h2 style="color: #226b68;">在研项目</h2>
-to be continue...
+
