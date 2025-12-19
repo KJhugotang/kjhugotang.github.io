@@ -8,7 +8,15 @@ toc_label: "Timeline"
 toc_icon: "history"
 ---
 
-<h2 style="color: #226b68; margin-bottom: 20px;">Upcoming Events (2025)</h2>
+<h2 style="color: #226b68; margin-bottom: 20px;">Upcoming Events</h2>
+
+<div style="padding: 20px; background-color: #f9f9f9; border-radius: 8px; border: 1px dashed #ccc; color: #666; text-align: center;">
+  <i class="fas fa-hourglass-half"></i> Stay tuned for future updates!
+</div>
+
+<hr style="margin: 40px 0; border: 0; border-top: 1px solid #eee;">
+
+<h2 style="color: #226b68; margin-bottom: 20px;">Past Events</h2>
 
 <div style="background-color: #ffffff; border-radius: 8px; padding: 20px; margin-bottom: 20px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); border-left: 5px solid #226b68;">
   <h3 style="margin-top: 0; margin-bottom: 10px; font-size: 1.2em;">
@@ -18,7 +26,7 @@ toc_icon: "history"
     <i class="fas fa-calendar-alt"></i> November 2025 | <i class="fas fa-map-marker-alt"></i> <strong>Melbourne, Australia 🇦🇺</strong>
   </p>
   <p style="color: #555; line-height: 1.6;">
-    I will be attending the Digital Intimacy 11 Symposium to engage with scholars on topics related to digital intimacy and platform cultures.
+    Attended the Digital Intimacy 11 Symposium to engage with scholars on topics related to digital intimacy and platform cultures.
   </p>
 </div>
 
@@ -30,13 +38,9 @@ toc_icon: "history"
     <i class="fas fa-calendar-alt"></i> August 2025 | <i class="fas fa-map-marker-alt"></i> <strong>San Francisco, USA 🇺🇸</strong>
   </p>
   <p style="color: #555; line-height: 1.6;">
-    Looking forward to presenting my latest research at the Association for Education in Journalism and Mass Communication (AEJMC) conference in San Francisco.
+    Presented my latest research at the Association for Education in Journalism and Mass Communication (AEJMC) conference.
   </p>
 </div>
-
-<hr style="margin: 40px 0; border: 0; border-top: 1px solid #eee;">
-
-<h2 style="color: #226b68; margin-bottom: 20px;">Past Events (2024)</h2>
 
 <div style="background-color: #ffffff; border-radius: 8px; padding: 20px; margin-bottom: 20px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); border-left: 5px solid #d4af37;">
   <h3 style="margin-top: 0; margin-bottom: 10px; font-size: 1.2em;">
@@ -63,10 +67,6 @@ toc_icon: "history"
     <i class="fas fa-calendar-alt"></i> June 2024 | <i class="fas fa-map-marker-alt"></i> <strong>Christchurch, New Zealand 🇳🇿</strong>
   </p>
   <p style="color: #555; line-height: 1.6;">
-    Attended the International Association for Media and Communication Research (IAMCR) conference. Engaged in discussions on global communication challenges.
+    Attended the International Association for Media and Communication Research (IAMCR) conference.
   </p>
 </div>
-
-<p style="color: #888; font-size: 0.9em; margin-top: 30px;">
-  <em>More updates will be posted as my Ph.D. journey continues.</em>
-</p>
