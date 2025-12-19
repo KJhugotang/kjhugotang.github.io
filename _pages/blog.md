@@ -4,48 +4,69 @@ title: ""
 layout: single
 author_profile: true
 toc: true
-toc_label: "News Categories"
-toc_icon: "newspaper"
+toc_label: "Timeline"
+toc_icon: "history"
 ---
 
-<h2 style="color: #226b68; margin-bottom: 20px;">Featured Reporting</h2>
+<h2 style="color: #226b68; margin-bottom: 20px;">Upcoming Events (2025)</h2>
 
 <div style="background-color: #ffffff; border-radius: 8px; padding: 20px; margin-bottom: 20px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); border-left: 5px solid #226b68;">
   <h3 style="margin-top: 0; margin-bottom: 10px; font-size: 1.2em;">
-    <a href="#" style="color: #333; text-decoration: none;">报道标题示例：关于数字媒体的一篇深度报道</a>
+    <span style="color: #333;">Digital Intimacy 11 Symposium</span>
   </h3>
   <p style="color: #888; font-size: 0.9em; margin-bottom: 10px;">
-    <i class="fas fa-calendar-alt"></i> 2023年10月 | <strong>媒体名称 (Media Name)</strong>
+    <i class="fas fa-calendar-alt"></i> November 2025 | <i class="fas fa-map-marker-alt"></i> <strong>Melbourne, Australia 🇦🇺</strong>
   </p>
   <p style="color: #555; line-height: 1.6;">
-    这里是简介区域。你可以在这里简要介绍这篇报道的核心内容。This is a short summary of the reporting article. It highlights the key findings and the impact of the story.
+    I will be attending the Digital Intimacy 11 Symposium to engage with scholars on topics related to digital intimacy and platform cultures.
   </p>
-  <div style="margin-top: 15px;">
-    <a href="#" style="color: #226b68; font-weight: bold; text-decoration: none; font-size: 0.95em;">
-      阅读全文 (Read More) &rarr;
-    </a>
-  </div>
 </div>
 
 <div style="background-color: #ffffff; border-radius: 8px; padding: 20px; margin-bottom: 20px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); border-left: 5px solid #226b68;">
   <h3 style="margin-top: 0; margin-bottom: 10px; font-size: 1.2em;">
-    <a href="#" style="color: #333; text-decoration: none;">学术动态：参加 ICA 2024 年度会议</a>
+    <span style="color: #333;">AEJMC 2025 Annual Conference</span>
   </h3>
   <p style="color: #888; font-size: 0.9em; margin-bottom: 10px;">
-    <i class="fas fa-map-marker-alt"></i> 2024年6月 | <strong>澳大利亚，黄金海岸</strong>
+    <i class="fas fa-calendar-alt"></i> August 2025 | <i class="fas fa-map-marker-alt"></i> <strong>San Francisco, USA 🇺🇸</strong>
   </p>
   <p style="color: #555; line-height: 1.6;">
-    我将在会议上展示关于人机传播的最新研究成果，与国际学者进行交流。
+    Looking forward to presenting my latest research at the Association for Education in Journalism and Mass Communication (AEJMC) conference in San Francisco.
   </p>
-  <div style="margin-top: 15px;">
-    <a href="#" style="color: #226b68; font-weight: bold; text-decoration: none; font-size: 0.95em;">
-      查看详情 (View Details) &rarr;
-    </a>
-  </div>
 </div>
 
 <hr style="margin: 40px 0; border: 0; border-top: 1px solid #eee;">
 
-<h2 style="color: #226b68;">More Updates</h2>
+<h2 style="color: #226b68; margin-bottom: 20px;">Past Events (2024)</h2>
 
-<p>Currently, I am focusing on my Ph.D. research. More blog posts will be updated soon.</p>
+<div style="background-color: #ffffff; border-radius: 8px; padding: 20px; margin-bottom: 20px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); border-left: 5px solid #d4af37;">
+  <h3 style="margin-top: 0; margin-bottom: 10px; font-size: 1.2em;">
+    <span style="color: #333;">AEJMC 2024 Annual Conference</span>
+  </h3>
+  <p style="color: #888; font-size: 0.9em; margin-bottom: 10px;">
+    <i class="fas fa-calendar-alt"></i> August 2024 | <i class="fas fa-map-marker-alt"></i> <strong>Philadelphia, USA 🇺🇸</strong>
+  </p>
+  
+  <div style="background-color: #fff8e1; border: 1px solid #ffe082; color: #bca136; padding: 8px 12px; border-radius: 4px; margin-bottom: 10px; display: inline-block;">
+    <i class="fas fa-trophy"></i> <strong>Top Paper Award</strong>
+  </div>
+
+  <p style="color: #555; line-height: 1.6;">
+    Presented research at the 2024 AEJMC conference and was honored to receive the Top Paper Award.
+  </p>
+</div>
+
+<div style="background-color: #ffffff; border-radius: 8px; padding: 20px; margin-bottom: 20px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); border-left: 5px solid #226b68;">
+  <h3 style="margin-top: 0; margin-bottom: 10px; font-size: 1.2em;">
+    <a href="https://iamcr.org/christchurch2024" target="_blank" style="color: #333; text-decoration: none;">IAMCR 2024 Annual Conference <i class="fas fa-external-link-alt" style="font-size: 0.8em; color: #ccc;"></i></a>
+  </h3>
+  <p style="color: #888; font-size: 0.9em; margin-bottom: 10px;">
+    <i class="fas fa-calendar-alt"></i> June 2024 | <i class="fas fa-map-marker-alt"></i> <strong>Christchurch, New Zealand 🇳🇿</strong>
+  </p>
+  <p style="color: #555; line-height: 1.6;">
+    Attended the International Association for Media and Communication Research (IAMCR) conference. Engaged in discussions on global communication challenges.
+  </p>
+</div>
+
+<p style="color: #888; font-size: 0.9em; margin-top: 30px;">
+  <em>More updates will be posted as my Ph.D. journey continues.</em>
+</p>
