@@ -27,13 +27,13 @@ toc_icon: "history"
 
 <div style="background-color: #ffffff; border-radius: 8px; padding: 20px; margin-bottom: 20px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); border-left: 5px solid #226b68;">
   <h3 style="margin-top: 0; margin-bottom: 10px; font-size: 1.2em;">
-    <span style="color: #333;">Digital Intimacy 11 Symposium</span>
+    <span style="color: #333;">International Conference on Platform and AI Society in Asia</span>
   </h3>
   <p style="color: #888; font-size: 0.9em; margin-bottom: 10px;">
     <i class="fas fa-calendar-alt"></i> November 2025 | <i class="fas fa-map-marker-alt"></i> <strong>Melbourne, Australia 🇦🇺</strong>
   </p>
   <p style="color: #555; line-height: 1.6;">
-    Attended the Digital Intimacy 11 Symposium to engage with scholars on topics related to digital intimacy and platform cultures.
+    Attended the International Conference on Platform and AI Society in Asia to engage with scholars on topics related to digital media and platform cultures.
   </p>
 </div>
 
