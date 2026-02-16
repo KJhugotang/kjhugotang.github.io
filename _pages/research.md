@@ -10,10 +10,10 @@ toc_icon: "book"
 
 <h2 style="color: #226b68;">Research Interests</h2>
 
-Here you can describe your main research areas:
-* Digital media culture
+My research interests lie in the following areas:
 * Gender & sexuality
-* Digital intimacy studies in the Chinese context
+* Digital intimacies
+* Chinese media and society
 
 <h2 style="color: #226b68;">Publications</h2>
 
