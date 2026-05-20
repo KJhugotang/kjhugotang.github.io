@@ -18,10 +18,14 @@ My research interests lie in the following areas:
 
 <h2 style="color: #226b68;">Publications</h2>
 
+<p style="margin: 0.4rem 0 1rem 0; font-size: 0.95rem; color: #555;">
+  * = Corresponding author
+</p>
+
 <div style="border: 1px solid #e6e6e6; border-radius: 12px; padding: 1.2rem 1.4rem; margin: 1.2rem 0; background: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04);">
 
   <p style="margin: 0 0 0.5rem 0; line-height: 1.6;">
-    Chen, Y., & <strong style="color: #226b68;">Deng, K. K.</strong> (2026).
+    Chen, Y., & <strong style="color: #226b68;">Deng, K. K.</strong>* (2026).
     Reimagining History and Solidarity: Nationalist Discourse in Chinese Self-Media’s Coverage of the Belarusian Champion’s Olympic Triumph.
     <em>Communication & Sport</em>, 21674795261445805.
   </p>
