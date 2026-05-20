@@ -12,6 +12,16 @@ toc_icon: "history"
 
 <div style="background-color: #ffffff; border-radius: 8px; padding: 20px; margin-bottom: 20px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); border-left: 5px solid #226b68;">
   <h3 style="margin-top: 0; margin-bottom: 10px; font-size: 1.2em;">
+    <span style="color: #333;">AEJMC 2026 Annual Conference</span>
+  </h3>
+  <p style="color: #888; font-size: 0.9em; margin-bottom: 10px;">
+    <i class="fas fa-calendar-alt"></i> August 2026 | <i class="fas fa-map-marker-alt"></i> <strong>New Orleans, the United States 🇺🇸</strong>
+  </p>
+  <p style="color: #555; line-height: 1.6;">
+  </p>
+</div>
+<div style="background-color: #ffffff; border-radius: 8px; padding: 20px; margin-bottom: 20px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); border-left: 5px solid #226b68;">
+  <h3 style="margin-top: 0; margin-bottom: 10px; font-size: 1.2em;">
     <span style="color: #333;">ICA 2026 Annual Conference</span>
   </h3>
   <p style="color: #888; font-size: 0.9em; margin-bottom: 10px;">
