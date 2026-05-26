@@ -13,7 +13,8 @@ toc_icon: "book"
 My research interests lie in the following areas:
 
 * Gender & sexuality
-* Digital intimacies
+* Digital publics
+* Sport Communication
 * Chinese media and society
 
 <h2 style="color: #226b68;">Publications</h2>
