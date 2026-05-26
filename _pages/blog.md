@@ -68,11 +68,11 @@ toc_icon: "history"
   </p>
   
   <div style="background-color: #fff8e1; border: 1px solid #ffe082; color: #bca136; padding: 8px 12px; border-radius: 4px; margin-bottom: 10px; display: inline-block;">
-    <i class="fas fa-trophy"></i> <strong>Top Paper Award</strong>
+    <i class="fas fa-trophy"></i> <strong>Top Student Paper Award</strong>
   </div>
 
   <p style="color: #555; line-height: 1.6;">
-    Presented research at the 2024 AEJMC conference and was honored to receive the Top Paper Award.
+    Presented research at the 2024 AEJMC conference and was honored to receive the Top Student Paper Award.
   </p>
 </div>
 
