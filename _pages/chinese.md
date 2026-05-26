@@ -50,7 +50,7 @@ toc_icon: "book"
   <p style="margin: 0 0 0.5rem 0; line-height: 1.6;">
     Chen, Y., & <strong style="color: #226b68;">Deng, K. K.</strong>* (2026).
     Reimagining History and Solidarity: Nationalist Discourse in Chinese Self-Media’s Coverage of the Belarusian Champion’s Olympic Triumph
-    （重构历史与团结：中国自媒体对这位白俄罗斯冠军奥运胜利报道中的民族主义话语）.
+    （重构历史与团结：中国自媒体对巴黎奥运中白俄罗斯运动员夺冠报道中的民族主义话语）.
     <em>Communication & Sport</em>, 21674795261445805.
   </p>
 
